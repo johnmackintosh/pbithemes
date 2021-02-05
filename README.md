@@ -8,7 +8,7 @@ no doubt
 
 deee lite  
 
-![image](https://user-images.githubusercontent.com/3278367/107098797-018d5a00-6808-11eb-94bd-9e54bec18c97.png)  
+![image](https://user-images.githubusercontent.com/3278367/107099755-71044900-680a-11eb-9cf6-add8203f5f60.png)
 
 
 master of puppets  
