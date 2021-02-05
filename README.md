@@ -1,2 +1,2 @@
 # pbithemes
-{rockthemes} and {metallicart}, but for PowerBi
+{rockthemes} and {metallicart}, but for PowerBI
