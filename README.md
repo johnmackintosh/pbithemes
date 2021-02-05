@@ -13,5 +13,5 @@ deee lite
 
 master of puppets  
 
-![image](https://user-images.githubusercontent.com/3278367/107098678-b7a47400-6807-11eb-9418-1c063cddff5d.png)  
+![image](https://user-images.githubusercontent.com/3278367/107100047-1e775c80-680b-11eb-9e6c-3275453e085c.png) 
 
