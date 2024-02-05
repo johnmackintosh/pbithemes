@@ -1,0 +1,16 @@
+﻿{
+    "name": "72seasons",
+    "dataColors": [
+        "#fffba8",
+        "#E8E690",
+        "#ffff01",
+        "#EDEA15",
+        "#CDC6B3",
+        "#888752",
+        "#836800",
+        "#b39c00"
+    ],
+    "bad": "#ffff01",
+    "neutral": "#fffba8",
+    "good": "#836800"
+}
