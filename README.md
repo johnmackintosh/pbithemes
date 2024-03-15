@@ -4,7 +4,7 @@
 
 ## How it looks
 
-![image](https://github.com/johnmackintosh/pbithemes/assets/3278367/6e1f8d4d-2c25-466d-8bd8-14cc88cc1413)
+![image](https://github.com/johnmackintosh/pbithemes/assets/3278367/73cc705c-437c-4b22-b8d6-597f68d3b434)
 
 
 
