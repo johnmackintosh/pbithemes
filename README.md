@@ -1,6 +1,16 @@
 # pbithemes
 {rockthemes} and {metallicart}, but for PowerBI
 
+
+## How it looks
+
+![image](https://github.com/johnmackintosh/pbithemes/assets/3278367/6e1f8d4d-2c25-466d-8bd8-14cc88cc1413)
+
+
+
+
+## Themes
+
 no doubt  
 
 ![image](https://user-images.githubusercontent.com/3278367/107099884-c4769700-680a-11eb-8665-7ff892a25a07.png)
